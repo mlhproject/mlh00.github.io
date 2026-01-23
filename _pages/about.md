@@ -1,4 +1,4 @@
----
+<img width="918" height="882" alt="image" src="https://github.com/user-attachments/assets/62a49387-97e4-460a-b881-7a536d52bc6d" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 # 📝papers
 **(📧:Corresponding Author)**
 -[],
--  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906),Yu Feng, **Linghui Meng📧**,Jing Xi,et.al **Mathematics**,2024,<span style="color:#c00000;">(JCR Q1)</span>
+-  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906),Yu Feng, **Linghui Meng📧**,Jing Xi,et.al **Mathematics**,2024,<span style="color:red;font-weight:bold;">JCR Q1</span>
 -  [A Blockchain-Based Auditing Scheme for Educational Data Supporting Trusted Detection](https://ieeexplore.ieee.org/abstract/document/10858792),Feng Yu, Qianhui Lu, **Linghui Meng📧**, Jiahui Peng, Jing Xi, Xianxian Li Li,**2024 Twelfth International Conference on Advanced Cloud and Big Data (CBD)**,2024,(EI)
 -  [A Policy-Controlled Signature Scheme for end-to-end Secure Communication](https://ieeexplore.ieee.org/abstract/document/10858807),Feng Yu, **Linghui Meng📧**, Jing Xi, Xianxian Li, Qianhui Lu, Weidong Zhu,**2024 Twelfth International Conference on Advanced Cloud and Big Data (CBD)**,2024,(EI)
 -  [Achieving Secure and Efficient Emergency Data Sharing based on Searchable Proxy Re-Encryption](https://ieeexplore.ieee.org/abstract/document/10858834),Feng Yu, Jing Xi, **Linghui Meng📧**, Daicen Jiang, Qianhui Lu, Xianxian Li,**2024 Twelfth International Conference on Advanced Cloud and Big Data (CBD)**,2024,(EI)
