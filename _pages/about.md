@@ -27,9 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 <span class='anchor' id='some papers'></span>
 # 📝papers
-**(🥇:Corresponding Author)**
-
--  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906),Yu Feng, **Linghui Meng🥇**,et.al **Mathematics**,2024,(JCR Q1)
+**(📧:Corresponding Author)**
+-  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906),Yu Feng, **Linghui Meng📧**,Jing Xi,et.al **Mathematics**,2024,(JCR Q1)
 <span class='anchor' id='Honors and Awards'></span>
 # 🥇Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
