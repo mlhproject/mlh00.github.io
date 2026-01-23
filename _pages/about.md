@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 # 📝papers
 **(🥇:Corresponding Author)**
 
--  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906)Yu Feng, **Linghui Meng🥇**,et.al **Mathematics**,2024,(JCR Q1)
+-  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906),Yu Feng, **Linghui Meng🥇**,et.al **Mathematics**,2024,(JCR Q1)
 <span class='anchor' id='Honors and Awards'></span>
 # 🥇Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
