@@ -23,8 +23,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 <span class='anchor' id='News'></span>
 # 🔥News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 Our paper is accecpted by ICASSP 2026 
+
 <span class='anchor' id='some papers'></span>
 # 📝papers
 **(📧:Corresponding Author)**
