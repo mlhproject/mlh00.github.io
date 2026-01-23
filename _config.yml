@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Linghui Meng"
 description              : "LLM Safety 🛡️ &  Applied Cryptography 🔑"
+url: "https://mlh00.github.io"
+baseurl: ""   # 用户主页必须是空字符串！！！
 repository               : "mlhproject/mlh00.github.io"
 google_scholar_stats_use_cdn : true
 
