@@ -41,6 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 </div> -->
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-  [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906)Yu Feng, Linghui Meng*,et.al **Mathematics**
 <span class='anchor' id='Honors and Awards'></span>
 # 🥇Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
