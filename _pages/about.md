@@ -26,6 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <span class='anchor' id='some papers'></span>
 # 📝papers
 **(📧:Corresponding Author)**
+- ``ICASSP 2026`` [Grey-Box Prompt Tuning with Graph Alignment for Speech-Language Models](https://arxiv.org/abs/2502.05863), Yuhang Lu, **Linghui Meng📧**, Li-e Wang, Xianxian Li, Feng Yu.**(CCF-B)**
 - [Grey-Box Prompt Tuning with Graph Alignment for Speech-Language Models](),Yuhang Lu, **Linghui Meng📧**, Li-e Wang, Xianxian Li, Feng Yu,**2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**,2026,(CCF-B)
 - [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906),Yu Feng, **Linghui Meng📧**,Jing Xi,et.al **Mathematics**,2024,(JCR Q1)
 - [A Blockchain-Based Auditing Scheme for Educational Data Supporting Trusted Detection](https://ieeexplore.ieee.org/abstract/document/10858792),Feng Yu, Qianhui Lu, **Linghui Meng📧**, Jiahui Peng, Jing Xi, Xianxian Li Li,**2024 Twelfth International Conference on Advanced Cloud and Big Data (CBD)**,2024,(EI)
