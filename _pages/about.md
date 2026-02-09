@@ -29,12 +29,12 @@ redirect_from:
 # 📝papers
 **(📧:Corresponding Author)**
 - ``ICASSP 2026`` [Grey-Box Prompt Tuning with Graph Alignment for Speech-Language Models](), Yuhang Lu, **Linghui Meng📧**, Li-e Wang, Xianxian Li, Feng Yu.**(CCF-B)**
-- ``Mathematics`` [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906), Yu Feng, **Linghui Meng📧**,Jing Xi.**(JCR Q1)**
+- ``Mathematics`` [An Attribute-Based End-to-End Policy-Controlled Signcryption Scheme for Secure Group Chat Communication](https://doi.org/10.3390/math12182906), Feng Yu, **Linghui Meng📧**,Jing Xi.**(JCR Q1)**
 - ``CBD 2024`` [A Blockchain-Based Auditing Scheme for Educational Data Supporting Trusted Detection](https://ieeexplore.ieee.org/abstract/document/10858792),Feng Yu, Qianhui Lu, **Linghui Meng📧**, Jiahui Peng, Jing Xi, Xianxian Li Li.
 - ``CBD 2024`` [A Policy-Controlled Signature Scheme for end-to-end Secure Communication](https://ieeexplore.ieee.org/abstract/document/10858807),Feng Yu, **Linghui Meng📧**, Jing Xi, Xianxian Li, Qianhui Lu, Weidong Zhu.
 - ``CBD 2024`` [Achieving Secure and Efficient Emergency Data Sharing based on Searchable Proxy Re-Encryption](https://ieeexplore.ieee.org/abstract/document/10858834),Feng Yu, Jing Xi, **Linghui Meng📧**, Daicen Jiang, Qianhui Lu, Xianxian Li.
 - ``CSCWD 2024``[Dual contrastive learning and dual bi-directional transformer encoders for sequential recommendations](https://ieeexplore.ieee.org/abstract/document/10580313),Li-e Wang, Hengtong Chang, Rongwen Wei, Xianxian Li, Zhigang Sun, Yongdong Li, Yi Wei, **Linghui Meng**.**(CCF-C)**
-- ``《广西师范大学学报》(自然科学版)``[一种基于区块链的物联网数据安全交易方案](http://gxsf.magtech.com.cn/CN/abstract/abstract2438.shtml),于枫,**孟令辉**,彭家辉,李先贤,瞿斌.**(CSCD)**
+- ``《广西师范大学学报》(自然科学版)``[一种基于区块链的物联网数据安全交易方案](http://gxsf.magtech.com.cn/CN/abstract/abstract2438.shtml),于枫,**孟令辉**,彭家辉,李先贤,瞿斌.**(中文核心)**
   
 <span class='anchor' id='Honors and Awards'></span>
 # 🥇Honors and Awards
